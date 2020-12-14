@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # === { Py_Modules } ===
 # 
 # 1 - ProjectEuler_Modules.py
