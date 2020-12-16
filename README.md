@@ -1,37 +1,34 @@
 # === { Py_Modules } ===
 # 
-# 1 - ProjectEuler_Modules.py
-# 2 - Math_Modules.py
-# 3 - Physics_Modules.py
+### ProjectEuler_Modules.py
+### Math_Modules.py
+### Physics_Modules.py
 
 
-# - [ ProjectEuler_Modules.py ] -
+### - [ ProjectEuler_Modules.py ] -
 # 
-# # | Modules
-# ==+========= 
-# 1 | 
-# 2 | 
-# 3 | 
+###### Modules
+###### ====================
+###### 
+###### 
+###### 
 
 
-
-# - [ Physics_Modules.py ] -
+### - [ Physics_Modules.py ] -
 # 
-# # | Modules
-# ==+========= 
-# 1 | Distance__V_angle
-# 2 | V_angle__Distance
-# 3 | 
+###### Modules
+###### =====================
+###### Distance__V_angle
+###### V_angle__Distance
+###### 
 
 
-# - [ Math_Modules.py ] -
+### - [ Math_Modules.py ] -
 # 
-# # | Modules
-# ==+========= 
-# 1 | 
-# 2 | 
-# 3 | 
-
-
+###### Modules
+###### =====================
+###### Distance__V_angle
+###### V_angle__Distance
+###### 
 
 >>>>>>> master
