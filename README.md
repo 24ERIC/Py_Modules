@@ -22,7 +22,7 @@ git clone https://github.com/MuscleBrain/Py_Modules.git
 
 ## For ProjectEuler_Modules.py 
 
-Please Wait ! ٩(×̯×)۶
+Wait
 
 ------------------
 
@@ -36,5 +36,5 @@ Please Wait ! ٩(×̯×)۶
 
 ## For Math_Modules.py
 
-Please Wait ! ٩(×̯×)۶
+Wait
 
