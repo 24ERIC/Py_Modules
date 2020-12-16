@@ -1,8 +1,8 @@
-## Welcome to Py_Modules
+## Welcome to Py_Modules (ʘ‿ʘ)
 
 ------------------
 
-## How to get it
+## How to get it (✖╭╮✖)
 
 ```bash
 git clone https://github.com/MuscleBrain/Py_Modules.git
@@ -10,7 +10,7 @@ git clone https://github.com/MuscleBrain/Py_Modules.git
 
 ------------------
 
-## Always check what we have (^-^)
+## Always check what we have (u_u)
 
 * ProjectEuler_Modules.py
 
@@ -22,7 +22,7 @@ git clone https://github.com/MuscleBrain/Py_Modules.git
 
 ## For ProjectEuler_Modules.py 
 
-Please Wait !
+Please Wait ! ٩(×̯×)۶
 
 ------------------
 
@@ -36,5 +36,5 @@ Please Wait !
 
 ## For Math_Modules.py
 
-Please Wait !
+Please Wait ! ٩(×̯×)۶
 
