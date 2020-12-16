@@ -31,3 +31,14 @@ def V_angle__Distance(V_min, V_max, angle_min, angle_max, Distance):
                 return V , angle    
 
 
+def five_Dinamic_Equations(V1, V2, a, d, t):
+    '''
+    \n>> Unknow Given == 0
+    \n>> Use 3 given --> Get one Unknown
+    \n>> Equation1 v2 = v1 + (a * t)
+    \n>> Equation2 d = (v1 + v2) / 2  * t
+    \n>> Equation3 d = (v1 * t) + (0.5 * a * t**2)
+    \n>> Equation4 d = (v2 * t) - (0.5 * a * t**2)
+    \n>> Equation5 v2**2 = v1**1 + (2 * a * d)  
+    '''
+    def Equation1()
