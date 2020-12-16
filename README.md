@@ -14,6 +14,16 @@
 # 3 | 
 
 
+
+# - [ Physics_Modules.py ] -
+# 
+# # | Modules
+# ==+========= 
+# 1 | Distance__V_angle
+# 2 | V_angle__Distance
+# 3 | 
+
+
 # - [ Math_Modules.py ] -
 # 
 # # | Modules
@@ -23,20 +33,5 @@
 # 3 | 
 
 
-# - [ Physics_Modules.py ] -
-# 
-# # | Modules
-# ==+========= 
-# 1 | 
-# 2 | 
-# 3 | 
 
-
-=======
-# ProjectEuler_Python_Modules
-# Functions
-# 1
-# 2
-# 3
-# 4
 >>>>>>> master
