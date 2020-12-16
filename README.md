@@ -20,24 +20,19 @@
 
 ## For ProjectEuler_Modules.py 
 
-`onoin`
-
-`nno`
+'Please Wait !'
 
 ------------------
 
 ## For Physics_Modules.py
 
-`Distance__V_angle`
+`Distance__V_angle()`
 
-`V_angle__Distance`
+`V_angle__Distance()`
 
 ------------------
 
 ## For Math_Modules.py
 
-`km`
-
-`li`
-
+'Please Wait !'
 
