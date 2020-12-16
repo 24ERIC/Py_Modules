@@ -4,17 +4,19 @@
 
 ## How to get it
 
-`git clone https://github.com/MuscleBrain/Py_Modules.git`
+```bash
+git clone https://github.com/MuscleBrain/Py_Modules.git
+```
 
 ------------------
 
 ## Always check what we have (^-^)
 
-ProjectEuler_Modules.py
+*ProjectEuler_Modules.py
 
-Math_Modules.py
+*Math_Modules.py
 
-Physics_Modules.py
+*Physics_Modules.py
 
 ------------------
 
@@ -26,9 +28,9 @@ Please Wait !
 
 ## For Physics_Modules.py
 
-`Distance__V_angle()`
+*Distance__V_angle()
 
-`V_angle__Distance()`
+*V_angle__Distance()
 
 ------------------
 
