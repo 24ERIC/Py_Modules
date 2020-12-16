@@ -4,7 +4,7 @@
 
 ## How to get it
 
-`git clone https://github.com/MuscleBrain/Py_Modules.git`
+git clone https://github.com/MuscleBrain/Py_Modules.git
 
 ------------------
 
@@ -20,7 +20,7 @@
 
 ## For ProjectEuler_Modules.py 
 
-'Please Wait !'
+Please Wait !
 
 ------------------
 
@@ -34,5 +34,5 @@
 
 ## For Math_Modules.py
 
-'Please Wait !'
+Please Wait !
 
