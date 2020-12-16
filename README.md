@@ -4,7 +4,7 @@
 
 ## How to get it
 
-git clone https://github.com/MuscleBrain/Py_Modules.git
+`git clone https://github.com/MuscleBrain/Py_Modules.git`
 
 ------------------
 
