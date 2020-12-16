@@ -1,8 +1,8 @@
-## Welcome to Py_Modules  ┏(‘▀_▀’)ノ♬♪
+## Welcome to Py_Modules   ＼(o￣∇￣o)/
 
 ------------------
 
-## How to get it  (　-_･) ︻デ═一  ▸
+## How to get it   (　-_･) ︻デ═一  ▸
 
 ```bash
 git clone https://github.com/MuscleBrain/Py_Modules.git
@@ -10,7 +10,7 @@ git clone https://github.com/MuscleBrain/Py_Modules.git
 
 ------------------
 
-## Always check what we have  (-.-(-.(-(-.(-.-).-)-).-)-.-)
+## Always check what we have   (-.-(-.(-(-.(-.-).-)-).-)-.-)
 
 * ProjectEuler_Modules.py
 
