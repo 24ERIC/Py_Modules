@@ -37,7 +37,7 @@ git clone https://github.com/MuscleBrain/Py_Modules.git
 #### <003> Cool_Projects
 
 
-* <003-1> firstProj_HangMan
+* <003-1> FirstProj_HangMan
 
 * 
 
