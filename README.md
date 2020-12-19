@@ -19,19 +19,19 @@ git clone https://github.com/MuscleBrain/Py_Modules.git
 #### <001>
 
 
-* -1
+##### -1
 
-###### func1_getDistance_kinemic()
+* func1_getDistance_kinemic()
 
-* -2
+##### -2
 
-###### func2_get_V_angle_kinemic()
+* func2_get_V_angle_kinemic()
 
-* -3 
+##### -3 
 
-###### func3_get_v1_v2_a_t_d_five_kinemic_equation()
+* func3_get_v1_v2_a_t_d_five_kinemic_equation()
 
-* -4- 
+##### -4 
 
 -------------------------------------------------------
 #### <002>
