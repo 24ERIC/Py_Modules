@@ -11,7 +11,7 @@
     \n>> Return : 
     '''
 
-def func1_getDistance(v, angle):
+def func1_getDistance_kinemic(v, angle):
     '''
     \n>> <Help>
     \n>> In : v (velocity) + angle
@@ -29,7 +29,7 @@ def func1_getDistance(v, angle):
     return vx * t  
 
 
-def func2_get_V_angle(v_min, v_max, angle_min, angle_max, distance):
+def func2_get_V_angle_kinemic(v_min, v_max, angle_min, angle_max, distance):
     '''
     \n>> <Help>
     \n>> In : v_min , v_max (range)
@@ -50,7 +50,7 @@ def func2_get_V_angle(v_min, v_max, angle_min, angle_max, distance):
                 return v , angle    
 
 
-def get_v1_v2_a_t_d(v1, v2, a, t, d):
+def func3_get_v1_v2_a_t_d_five_kinemic_equation(v1, v2, a, t, d):
     '''
     \n>> <Help>
     \n>> In : any three of v1, v2, a, t, d
