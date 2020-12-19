@@ -10,14 +10,14 @@ def HangMan():
     def first_screen():
         print("\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n")
         print("\nWelcome to HangMan; l am MuscleBrain; let's have some fun!\n\n")
-        # time.sleep(1)
-        # print("Starts in----------3\n\n")
-        # time.sleep(1)
-        # print("Wait-----------2\n\n")
-        # time.sleep(1)
-        # print("Okey-------1\n\n")
-        # time.sleep(1)
-        # print("Start--0\n\n")
+        time.sleep(1)
+        print("Starts in----------3\n\n")
+        time.sleep(1)
+        print("Wait-----------2\n\n")
+        time.sleep(1)
+        print("Okey-------1\n\n")
+        time.sleep(1)
+        print("Start--0\n\n")
 
     def screen_graph():
         up_right_sentence = ""      #init 
