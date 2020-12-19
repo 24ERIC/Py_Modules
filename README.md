@@ -1,12 +1,4 @@
-## Welcome to Py_Modules   ＼(o￣∇￣o)/
-
-------------------
-
-## How to get it   (　-_･) ︻デ═一  ▸
-
-```bash
-git clone https://github.com/MuscleBrain/Py_Modules.git
-```
+# Welcome to Py_Modules   ＼(o￣∇￣o)/
 
 ------------------
 
@@ -14,27 +6,32 @@ git clone https://github.com/MuscleBrain/Py_Modules.git
 
 * ProjectEuler_Modules.py
 
-* Math_Modules.py
-
 * Physics_Modules.py
 
 ------------------
 
-## For ProjectEuler_Modules.py 
+### How to get it   (　-_･) ︻デ═一  ▸
 
-Wait
-
-------------------
-
-## For Physics_Modules.py
-
-* Distance__V_angle()
-
-* V_angle__Distance()
+```bash
+git clone https://github.com/MuscleBrain/Py_Modules.git
+```
 
 ------------------
 
-## For Math_Modules.py
+#### For Physics_Modules.py
 
-Wait
+* func1_getDistance()
+
+* func2_get_V_angle()
+
+* get_v1_v2_a_t_d()
+
+------------------
+
+#### For Math_Modules.py
+
+* 
+
+------------------
+
 

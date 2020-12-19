@@ -6,6 +6,13 @@ import math
 \n>>
 '''
 
+'''
+\n>>imput a number list --> output sorted list (from big to small / small to big)
+\n>>
+\n>>
+\n>>
+'''
+
 def Permutation_List(List_Input, Num_Size):
     '''
     \n>> String or Int List_Input
