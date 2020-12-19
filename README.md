@@ -1,6 +1,6 @@
 # Welcome to Py_Modules   ＼(o￣∇￣o)/
 ------------------------------------------------------
-### (　-_･) ︻デ═一  ▸   get it
+### (　-_･) ︻デ═一  ▸   How To Get It ~ ~ ~ ~
 
 ```bash
 git clone https://github.com/MuscleBrain/Py_Modules.git
