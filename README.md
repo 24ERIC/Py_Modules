@@ -6,7 +6,7 @@
 * [Setup](#Setup)
 * [Math_Modules](#Math_Modules)
 * [Physics_Modules](#Physics_Modules)
-* [gameProj_Py](#gameProj_Py)
+* [GameProj_Py](#GameProj_Py)
 * [SecurityProj_Py](#SecurityProj_Py)
 
 ## Setup 
@@ -28,11 +28,12 @@ import <...>
 ## Physics_Modules
 * 
 
-## gameProj_Py
+## GameProj_Py
 * FirstProj_HangMan
 * 
 
 ## SecurityProj_Py
+* passwdCrack_easy
 * 
 
 
