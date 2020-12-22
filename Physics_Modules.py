@@ -1,45 +1,48 @@
+# Retain the copyright by the author (Eric)
+@hello
 '''
-    \n>> <Help>
-    \n>> In : 
-    \n>> Out : 
-    '''
+\n# <Help>
+\n# In : 
+\n# Out : 
 '''
-    \n>> About : 
-    \n>> Step : 
-    \n>> Step : 
-    \n>> Step : 
-    \n>> Return : 
-    '''
+'''
+\n# About : 
+\n# Step : 
+\n# Step : 
+\n# Step : 
+\n# Return : 
+'''
 
-def func1_getDistance_kinemic(v, angle):
+def Kinemic_getDistance(v, angle):
     '''
-    \n>> <Help>
-    \n>> In : v (velocity) + angle
-    \n>> Out : d (distance)
+    \n# <Help>
+    \n# In : v (velocity) + angle
+    \n# Out : d (distance)
     '''
     '''
-    \n>> About : kinemic physics 
-    \n>> Step : V , angle --> Vx dirc , Vy dirc
-    \n>> Step : d = ( V1 * t ) - ( 0.5 * a * t**2 ) --> t 
-    \n>> Return : distance
+    \n# About : kinemic physics 
+    \n# Step : V , angle --> Vx dirc , Vy dirc
+    \n# Step : d = ( V1 * t ) - ( 0.5 * a * t**2 ) --> t 
+    \n# Return : distance
     '''
     import math
     vx, vy = v * math.cos(math.radians(60)), v * math.sin(math.radians(60))
     t = vy / 4.9
-    return vx * t  
+    d = vx * t
+    return d
 
 
-def func2_get_V_angle_kinemic(v_min, v_max, angle_min, angle_max, distance):
+def Kinemic_getDistance_bruteForce(v_min, v_max, angle_min, angle_max, distance):
     '''
-    \n>> <Help>
-    \n>> In : v_min , v_max (range)
-    \n>> Out : v , angle
+    \n# <Help>
+    \n# In : v_min , v_max (range)
+    \n# Out : v , angle
     '''
     '''
-    \n>> About : kinemic physics (brute force)
-    \n>> Step : v , angle --> Vx , Vy 
-    \n>> Step : d = (V1 * t) - (0.5 * a * t**2) --> t 
-    \n>> Return : V, angle { if int(Vx * t) == distance }
+    \n# About : kinemic physics (brute force)
+    \n# Step : v , angle --> Vx , Vy 
+    \n# Step : d = (V1 * t) - (0.5 * a * t**2) --> t 
+    \n# Return : V, angle { if int(Vx * t) == distance }
     '''
     import math
     for v in range(v_min,v_max):
@@ -50,7 +53,7 @@ def func2_get_V_angle_kinemic(v_min, v_max, angle_min, angle_max, distance):
                 return v , angle    
 
 
-def func3_get_v1_v2_a_t_d_five_kinemic_equation(v1, v2, a, t, d):
+def Kinemic_5Equations(v1, v2, a, t, d):
     '''
     \n>> <Help>
     \n>> In : any three of v1, v2, a, t, d
@@ -58,18 +61,18 @@ def func3_get_v1_v2_a_t_d_five_kinemic_equation(v1, v2, a, t, d):
     \n>> Return : v1 , v2 , a , d , t
     '''
     '''
-    \n>> About : five kinemic equations
-    \n>> Step : if elem is None --> run value in calculate() 
-    \n>> Step : else --> it's good
-    \n>> Step : calculate() , four ways to get answers for each value , 
-    \n>> Step : keep testing , if it fails , try another solution
-    \n>> Return : five values
-    \n>>
-    \n>> Equation1 : v2 = v1 + (a * t)
-    \n>> Equation2 : d = (v1 + v2) / 2  * t
-    \n>> Equation3 : d = (v1 * t) + (0.5 * a * t**2)
-    \n>> Equation4 : d = (v2 * t) - (0.5 * a * t**2)
-    \n>> Equation5 : v2**2 = v1**2 + (2 * a * d)  
+    \n# About : five kinemic equations
+    \n# Step : if elem is None --> run value in calculate() 
+    \n# Step : else --> it's good
+    \n# Step : calculate() , four ways to get answers for each value , 
+    \n# Step : keep testing , if it fails , try another solution
+    \n# Return : five values
+    \n#
+    \n# Equation1 : v2 = v1 + (a * t)
+    \n# Equation2 : d = (v1 + v2) / 2  * t
+    \n# Equation3 : d = (v1 * t) + (0.5 * a * t**2)
+    \n# Equation4 : d = (v2 * t) - (0.5 * a * t**2)
+    \n# Equation5 : v2**2 = v1**2 + (2 * a * d)  
     '''
     def calculate(elem):
         try:################################## First term
