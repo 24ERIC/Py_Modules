@@ -1,7 +1,7 @@
 # Welcome to Py_Modules (　-_･) ︻デ═一  ▸ 
-'''
+> Copyright (c) 2020 All Rights Reserved By Github/MuscleBrain
+> Author : Eric
 
-'''
 ## Contents we have   (-.-(-.(-(-.(-.-).-)-).-)-.-)
 * [Setup](#Setup)
 * [Math_Modules](#Math_Modules)
@@ -35,6 +35,5 @@ import <...>
 ## SecurityProj_Py
 * 
 
-## Copyright
-> Copyright (c) 2020 All Rights Reserved By Github/MuscleBrain
-> Author : Eric
+
+
