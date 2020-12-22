@@ -1,7 +1,7 @@
 # Welcome to Py_Modules   ＼(o￣∇￣o)/
 
 ## Contents we have   (-.-(-.(-(-.(-.-).-)-).-)-.-)
-* [Setup](#Setup (　-_･) ︻デ═一  ▸)
+* [Setup](#Setup)
 * [Math_Modules](#Math_Modules)
 * [Physics_Modules](#Physics_Modules)
 * [gameProj_Py](#gameProj_Py)
