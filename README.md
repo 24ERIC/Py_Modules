@@ -1,5 +1,7 @@
-# Welcome to Py_Modules   ＼(o￣∇￣o)/
+# Welcome to Py_Modules (　-_･) ︻デ═一  ▸ 
+'''
 
+'''
 ## Contents we have   (-.-(-.(-(-.(-.-).-)-).-)-.-)
 * [Setup](#Setup)
 * [Math_Modules](#Math_Modules)
@@ -7,18 +9,14 @@
 * [gameProj_Py](#gameProj_Py)
 * [SecurityProj_Py](#SecurityProj_Py)
 
-## Setup (　-_･) ︻デ═一  ▸   
+## Setup 
 ```
 $ git clone https://github.com/MuscleBrain/Py_Modules.git
 ```
 ```
 import sys
-sys.path.insert(0,'<! Your Path !>') #insert only one path at sys.path[0]
-or 
-sys.path += ['Path 1', 'Path 2', 'Path 3'] #add multiple path to sys.path
-import Math_Modules
-import Physics_Modules
-# <! And so on !>
+sys.path.insert(0,'<! Path !>') 
+import <...>
 ```
 
 ## Math_Modules
@@ -37,3 +35,6 @@ import Physics_Modules
 ## SecurityProj_Py
 * 
 
+## Copyright
+> Copyright (c) 2020 All Rights Reserved By Github/MuscleBrain
+> Author : Eric

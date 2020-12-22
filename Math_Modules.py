@@ -1,3 +1,10 @@
+'''
+Copyright (c) 2020 github.com/MuscleBrain.
+All rights reserved.
+
+Author : Eric
+'''
+
 import math
 '''
 \n>>

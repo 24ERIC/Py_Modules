@@ -1,5 +1,10 @@
-# Retain the copyright by the author (Eric)
-@hello
+'''
+Copyright (c) 2020 github.com/MuscleBrain.
+All rights reserved.
+
+Author : Eric
+'''
+
 '''
 \n# <Help>
 \n# In : 
