@@ -2,12 +2,15 @@
 > Copyright (c) 2020 All Rights Reserved By Github/MuscleBrain
 > Author : Eric
 
+
 ## Contents we have   (-.-(-.(-(-.(-.-).-)-).-)-.-)
 * [Setup](#Setup)
 * [Math_Modules](#Math_Modules)
 * [Physics_Modules](#Physics_Modules)
 * [GameProj_Py](#GameProj_Py)
 * [SecurityProj_Py](#SecurityProj_Py)
+* [Discord_Bots_Py](#Discord_Bots_Py)
+
 
 ## Setup 
 ```
@@ -20,22 +23,27 @@ import <...>
 ```
 
 ## Math_Modules
+* 
+
+
+## Physics_Modules
 * Kinemic_getDistance()
 * Kinemic_getDistance_bruteForce()
 * Kinemic_5Equations()
 * 
 
-## Physics_Modules
-* 
 
 ## GameProj_Py
 * FirstProj_HangMan
 * 
 
+
 ## SecurityProj_Py
 * Reference_passwdCrack
 * 
+
+
+## Discord_Bots_Py
+* calcu
 * 
-
-
 
