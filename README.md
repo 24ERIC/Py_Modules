@@ -47,3 +47,7 @@ import <...>
 * calcu
 * 
 
+## Solve_words_puzzles_Py
+* read_english_dictionary.py
+* words.txt
+
